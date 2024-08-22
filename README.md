@@ -79,9 +79,9 @@ To visualize the dual-arm robot in RViz:
 
 3. **perform inverse kinematics based on teleoperation data:**
 
-**Dependencies:**
-
-- [Panda Analytical Kinematics](https://git.rob.cs.tu-bs.de/public_repos/irp_papers/panda_analytical_kinematics.git) - https://git.rob.cs.tu-bs.de/public_repos/irp_papers/panda_analytical_kinematics.git
+     **Dependencies:**
+	
+     - [Panda Analytical Kinematics](https://git.rob.cs.tu-bs.de/public_repos/irp_papers/panda_analytical_kinematics.git) - https://git.rob.cs.tu-bs.de/public_repos/irp_papers/panda_analytical_kinematics.git
 
 
 

@@ -77,7 +77,7 @@ To visualize the dual-arm robot in RViz:
    - Start the HTC Vive teleoperation node to publsih the VR controller data.
    - Open RViz to visualize the TFs of the controllers, trackers etc.
 
-3. **perform inverse kinematics to determine robot joint angles:**
+3. **perform inverse kinematics :**
 
      **Dependencies:**
 	

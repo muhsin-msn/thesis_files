@@ -77,7 +77,7 @@ To visualize the dual-arm robot in RViz:
    - Start the HTC Vive teleoperation node to publsih the VR controller data.
    - Open RViz to visualize the TFs of the controllers, trackers etc.
 
-3. **perform inverse kinematics based on teleoperation data:**
+3. **perform inverse kinematics to determine robot joint angles:**
 
      **Dependencies:**
 	
@@ -85,11 +85,11 @@ To visualize the dual-arm robot in RViz:
 
 
 
- **Run the IK Script:**
-   - Perform IK for the given input poses to compute the required joint angles:
-     ```bash
-     rosrun motion_mapping pn_inv.cpp
-     ```
+      **Run the IK Script:**
+      - Perform IK for the given input poses to compute the required joint angles:
+      ```bash
+      rosrun motion_mapping pn_inv.cpp
+      ```
 
 ### 3. DMP Execution (Workspace: dmp_inter)
 

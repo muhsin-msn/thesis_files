@@ -135,6 +135,7 @@ The dual-arm robot control can be executed either in simulation (using Gazebo) o
 
 
 **For real robot execution:** 
+
 Compile the workspace `dual_arm_controller` which based on libfranka and customized to run in ROS environment.
 execute the controller file  - `dual_arm_controller.cpp` -  with the ip addresses of the robots
 	

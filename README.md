@@ -125,8 +125,9 @@ To visualize the dual-arm robot in RViz:
      rosrun dmp_int gui_buttons_list.py
      ```
    - In the GUI:
-     - Load the pre-trained weights.
-     - Press "Execute" to run the planned trajectory.
+     - Load the required weights.
+     - Select the required execution.
+     - Can be used to Play/Pause the execution.
 
 ### 4. Dual-Arm Robot Control 
 

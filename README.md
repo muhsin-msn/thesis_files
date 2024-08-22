@@ -1,13 +1,13 @@
 
 
-# Thesis - Dual-Arm Robot Task Learning via Teleoperation with Improved Dynamic Movement Primitives Adaptation
+# Master Thesis - Dual-Arm Robot Task Learning via Teleoperation with Improved Dynamic Movement Primitives Adaptation
 
 **Author:** Mohiyuddin Al Muhsin
 
 
 
-
-This repository contains the necessary workspaces and files to control a dual-arm robot system, focusing on visualization, teleoperation, and trajectory execution using Dynamic Movement Primitives (DMP). The project leverages various technologies to enable dynamic and adaptive control of robotic arms in both simulated and real environments.
+This repository contains the necessary workspaces and files used in the thesis for Learning from Demonstration (LfD) based on  Dynamic Movement Primitives (DPMs) using dual-arm robots.
+It includes resources for teleoperation, vizualization, robot control, DMP framework etc.
 
 <img src="https://github.com/user-attachments/assets/ac687ec8-7c5c-4043-93a6-773e922ca2fe" alt="peg_in_hole" width="400"/>
 

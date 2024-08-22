@@ -102,7 +102,7 @@ To visualize the dual-arm robot in RViz:
 1. **Navigate to the `dmp_inter` Workspace:**
 
 2. **Run the Main DMP Script:**
-   - Start the DMP execution:
+ 
      ```bash
      rosrun dmp_int dmp_main.py
      ```

@@ -4,6 +4,8 @@
 
 **Author:** Mohiyuddin Al Muhsin
 
+For a copy of the thesis PDF, contact: muhsin168@gmail.com.
+
 
 
 This repository contains the necessary workspaces and files used in the thesis for Learning from Demonstration (LfD) based on  Dynamic Movement Primitives (DPMs) using dual-arm robots.

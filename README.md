@@ -36,7 +36,7 @@ To visualize the dual-arm robot in RViz:
    
 ### 2. Teleoperation (workspace: motion_mapping)
 
-#### Using a Mocap Suit
+#### - Using a Mocap Suit
 
 **Dependencies:**
 
@@ -61,7 +61,7 @@ To visualize the dual-arm robot in RViz:
      rosrun motion_mapping pn_tf.cpp
      ```
 
-#### Using HTC Vive Controller
+#### - Using HTC Vive Controller
 
 **Dependencies:**
 

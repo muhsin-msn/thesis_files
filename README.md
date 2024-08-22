@@ -108,19 +108,19 @@ To visualize the dual-arm robot in RViz:
      ```
 
 3. **Run the Weights Client:**
-   - Train the DMP model and obtain weights:
+  
      ```bash
      rosrun dmp_int learn_client_multiple.py
      ```
 
 4. **Run the Execute Client:**
-   - Execute the learned DMP trajectory:
+   
      ```bash
      rosrun dmp_int execute_client.py
      ```
 
 5. **Run the GUI Buttons Application:**
-   - Use the GUI to load weights and execute the trajectory:
+   - Use the GUI to load required weights and execute the trajectory:
      ```bash
      rosrun dmp_int gui_buttons_list.py
      ```

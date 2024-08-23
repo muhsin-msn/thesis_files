@@ -49,10 +49,10 @@ To visualize the dual-arm robot in RViz:
 **Instructions:**
 
 1. **Set Up the Mocap Suit:**
-   - Ensure the MoCap suit is properly calibrated. Publish the BVH data via TCP (in Axis Neuron software)
+   - Ensure the MoCap suit is properly calibrated. Publish the BVH data via TCP (in Axis Neuron software [Windows OS])
 
-2. **Run the MoCap TCL client Script:**
-   - Receives the BVH data from Windows via TCP :
+2. **Run the MoCap TCL client Script (in Ubuntu 20.04):**
+   - Receives the BVH data from Windows system via TCP :
      ```bash
      rosrun motion_mapping convert_joints_tcp.cpp
      ```

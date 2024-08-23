@@ -8,8 +8,8 @@ For a copy of the thesis PDF, contact: muhsin168@gmail.com.
 
 
 
-This repository contains the necessary workspaces and files used in the thesis for Learning from Demonstration (LfD) based on  Dynamic Movement Primitives (DPMs) using dual-arm robots.
-It includes resources for teleoperation, vizualization, robot control, DMP framework etc.
+This repository contains the necessary workspaces and files used in the thesis which involves Learning from Demonstration (LfD) based on  Dynamic Movement Primitives (DPMs) using dual-arm robots.
+It includes resources for teleoperation, vizualization, robot control, DMP framework etc used in the work.
 
 <img src="https://github.com/user-attachments/assets/ac687ec8-7c5c-4043-93a6-773e922ca2fe" alt="peg_in_hole" width="400"/>
 

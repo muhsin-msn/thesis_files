@@ -87,6 +87,7 @@ To visualize the dual-arm robot in RViz:
 
   **Run the IK Script:**
       - Perform IK for the given input poses to compute the required joint angles:
+      
       ```bash
       rosrun motion_mapping pn_inv.cpp
       ```

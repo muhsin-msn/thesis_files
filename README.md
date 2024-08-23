@@ -81,13 +81,11 @@ To visualize the dual-arm robot in RViz:
 
 #### - **perform inverse kinematics :**
 
-     **Dependencies:**
-	
-     - [Panda Analytical Kinematics](https://git.rob.cs.tu-bs.de/public_repos/irp_papers/panda_analytical_kinematics.git) - https://git.rob.cs.tu-bs.de/public_repos/irp_papers/panda_analytical_kinematics.git
 
+ **Dependencies:**
+ - [Panda Analytical Kinematics](https://git.rob.cs.tu-bs.de/public_repos/irp_papers/panda_analytical_kinematics.git) - https://git.rob.cs.tu-bs.de/public_repos/irp_papers/panda_analytical_kinematics.git
 
-
-      **Run the IK Script:**
+  **Run the IK Script:**
       - Perform IK for the given input poses to compute the required joint angles:
       ```bash
       rosrun motion_mapping pn_inv.cpp

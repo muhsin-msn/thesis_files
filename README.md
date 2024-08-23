@@ -44,12 +44,12 @@ To visualize the dual-arm robot in RViz:
 
 - [CppServer](https://github.com/chronoxor/CppServer.git) - https://github.com/chronoxor/CppServer.git
 - Axis Neuron software: Software for capturing and processing mocap data.
-- BVH data (Motion capture data) from the mocap suit.
+- BVH data (Motion capture data) from the MoCap suit.
 
 **Instructions:**
 
 1. **Set Up the Mocap Suit:**
-   - Ensure the mocap suit is properly calibrated. Publish the BVH data via TCP (in Axis Neuron software)
+   - Ensure the MoCap suit is properly calibrated. Publish the BVH data via TCP (in Axis Neuron software)
 
 2. **Run the MoCap TCL client Script:**
    - Receives the BVH data from Windows via TCP :
@@ -138,8 +138,8 @@ The dual-arm robot control can be executed either in simulation (using Gazebo) o
 
 **For real robot execution:** 
 
-Compile the workspace `dual_arm_controller` which based on libfranka and customized to run in ROS environment.
-execute the controller file  - `dual_arm_controller.cpp` -  with the ip addresses of the robots
+Compile the workspace `dual_arm_controller` which is based on libfranka and customized to run in ROS environment.
+Execute the controller file  - `dual_arm_controller.cpp` -  with the ip addresses of the robots
 	
 **For both simulation and real robot execution:**
 
